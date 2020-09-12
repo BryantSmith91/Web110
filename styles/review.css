@@ -1,0 +1,9 @@
+.question {
+    font-weight: bold;
+}
+
+.answer {
+    text-indent: -2.5%;
+    padding-left: 2.5%;
+    font-weight: normal;
+}
