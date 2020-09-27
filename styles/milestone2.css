@@ -1,0 +1,50 @@
+body {
+    background-color: #557a95;
+    color: #5D5C61;
+    font-family: sans-serif;
+}
+
+a {
+    color: #5D5C61;
+}
+
+main,
+HEADER,
+footer {
+    font-family: sans-serif;
+}
+
+ul {
+    background-color: #7395AE;
+}
+
+#goal,
+#workingtitles,
+#forms,
+#information,
+HEADER,
+footer {
+    background-color: #7395AE;
+}
+
+h2 {
+    text-align: center;
+}
+
+p,
+dt,
+dd {
+    width: 50em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr.sec {
+    background-color: #557a95;
+    color: #557a95;
+}
+
+#listoftitles {
+    text-align: center;
+}
