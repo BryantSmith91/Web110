@@ -4,10 +4,6 @@ body {
     font-family: sans-serif;
 }
 
-a {
-    color: #5D5C61;
-}
-
 main,
 HEADER,
 footer {
@@ -45,6 +41,7 @@ hr.sec {
     color: #557a95;
 }
 
-#listoftitles {
+#listoftitles,
+.cent {
     text-align: center;
 }
