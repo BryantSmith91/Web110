@@ -16,6 +16,7 @@ footer {
 li {
     text-indent: -2.5%;
     padding-left: 2.5%;
+    padding-top: 1%;
 }
 
 body {
@@ -28,4 +29,8 @@ HEADER,
 footer {
     background-color: #7395AE;
     font-family: sans-serif;
+}
+
+figure {
+    text-align: center;
 }
