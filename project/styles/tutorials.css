@@ -32,3 +32,11 @@ footer {
 br#endcontent {
     line-height: 10em;
 }
+
+p.forms {
+    margin-left: 370px;
+}
+
+h3.steps {
+    margin-left: 1.5%;
+}

@@ -45,3 +45,7 @@ hr.sec {
 .cent {
     text-align: center;
 }
+
+hr.goalhr {
+    margin-top: -20px;
+}
