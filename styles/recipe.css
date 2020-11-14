@@ -20,3 +20,35 @@ caption {
     font-weight: bold;
     font-size: larger;
 }
+
+body {
+    padding: 1%;
+    background-color: #557a95;
+    color: #000000;
+    font-family: sans-serif;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+a {
+    color: #5D5C61;
+}
+
+main,
+HEADER,
+footer {
+    background-color: #7395AE;
+    font-family: sans-serif;
+}
+
+ul {
+    background-color: #7395AE
+}
+
+.validation {
+    padding: 5px;
+}
+
+footer {
+    text-align: center;
+}
