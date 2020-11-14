@@ -94,10 +94,14 @@ footer {
 }
 
 br#endcontent {
-    line-height: 10em;
+    line-height: 5em;
 }
 
 #mailme {
     padding-left: 40%;
     /* padding-right: ; */
+}
+
+ul {
+    padding-left: 10%;
 }

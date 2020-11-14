@@ -62,10 +62,17 @@ br.sep {
     height: 90%;
 }
 
-img.headshot {
+img.left {
     margin: 10px;
     float: right;
     clear: left;
+    border: 1px solid black;
+}
+
+img.right {
+    margin: 10px;
+    float: left;
+    clear: right;
     border: 1px solid black;
 }
 
@@ -99,5 +106,12 @@ br#endcontent {
 
 #mailme {
     padding-left: 40%;
-    /* padding-right: ; */
+}
+
+a.home {
+    padding: 10%;
+}
+
+br#endcontentlowes {
+    line-height: 15em;
 }
