@@ -1,9 +1,7 @@
 .cent,
 p,
-h2 {
-    text-align: center;
-}
-
+h2,
+footer,
 figure#wireframe {
     text-align: center;
 }
@@ -26,20 +24,17 @@ a {
 }
 
 main,
-HEADER,
+header,
 footer {
     background-color: #7395AE;
     font-family: sans-serif;
-}
-
-ul {
-    background-color: #7395AE
 }
 
 .validation {
     padding: 5px;
 }
 
-footer {
-    text-align: center;
+.arrows {
+    font-size: larger;
+    display: inline-block;
 }

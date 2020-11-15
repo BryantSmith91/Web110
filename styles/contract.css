@@ -1,17 +1,10 @@
-h1 {
+h1,
+footer {
     text-align: center;
 }
 
 h2 {
     padding-left: 2%;
-}
-
-body {
-    padding: 1%;
-}
-
-em {
-    padding-top: 1%;
 }
 
 p {
@@ -38,20 +31,17 @@ a {
 }
 
 main,
-HEADER,
+header,
 footer {
     background-color: #7395AE;
     font-family: sans-serif;
-}
-
-ul {
-    background-color: #7395AE
 }
 
 .validation {
     padding: 5px;
 }
 
-footer {
-    text-align: center;
+.arrows {
+    font-size: larger;
+    display: inline-block;
 }

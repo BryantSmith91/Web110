@@ -5,24 +5,18 @@ body {
 }
 
 main,
-HEADER,
-footer {
-    font-family: sans-serif;
-}
-
-ul {
-    background-color: #7395AE;
-}
-
 #goal,
 #workingtitles,
 #forms,
 #information,
-HEADER,
-footer {
+header,
+footer,
+ul {
     background-color: #7395AE;
+    font-family: sans-serif;
 }
 
+h1,
 h2,
 h3 {
     text-align: center;
@@ -43,7 +37,8 @@ hr.sec {
 }
 
 #listoftitles,
-.cent {
+.cent,
+footer {
     text-align: center;
 }
 
@@ -64,21 +59,11 @@ a {
     color: #5D5C61;
 }
 
-main,
-HEADER,
-footer {
-    background-color: #7395AE;
-    font-family: sans-serif;
-}
-
-ul {
-    background-color: #7395AE
-}
-
 .validation {
     padding: 5px;
 }
 
-footer {
-    text-align: center;
+.arrows {
+    font-size: larger;
+    display: inline-block;
 }
