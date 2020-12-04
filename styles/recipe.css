@@ -53,3 +53,7 @@ footer {
     font-size: larger;
     display: inline-block;
 }
+
+td.dir {
+    text-align: left;
+}

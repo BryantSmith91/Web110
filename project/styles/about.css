@@ -82,7 +82,9 @@ h1 {
     margin-right: auto;
 }
 
-h2 {
+h2,
+h4,
+p#contactme {
     text-align: center;
 }
 
@@ -94,7 +96,11 @@ footer {
 }
 
 br#endcontent {
-    line-height: 10em;
+    line-height: 5em;
+}
+
+br#thankyou {
+    line-height: 1.5em;
 }
 
 #mailme {

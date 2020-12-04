@@ -69,7 +69,9 @@ img.headshot {
     border: 1px solid black;
 }
 
-p {
+p,
+.input,
+ul {
     padding-left: 3%;
     padding-right: 3%;
 }
@@ -103,4 +105,9 @@ p.forms {
 
 h3.steps {
     margin-left: 1.5%;
+}
+
+figure {
+    text-align: right;
+    float: right;
 }
